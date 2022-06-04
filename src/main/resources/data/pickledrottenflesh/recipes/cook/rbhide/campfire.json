@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "ingredient": {
+    "item": "pickledrottenflesh:raw_rabbit_hide"
+  },
+  "result": "minecraft:rabbit_hide",
+  "cookingtime": 600
+}

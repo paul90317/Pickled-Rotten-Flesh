@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "pickledrottenflesh:pickledrottenflesh"
+    }
+  },
+  "result": {
+    "item": "pickledrottenflesh:raw_rabbit_hide",
+    "count": 1
+  }
+}

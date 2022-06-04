@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "ingredient": {
+    "item": "pickledrottenflesh:raw_leather"
+  },
+  "result": "minecraft:leather",
+  "cookingtime": 600
+}

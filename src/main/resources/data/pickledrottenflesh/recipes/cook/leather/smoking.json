@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "pickledrottenflesh:raw_leather"
+  },
+  "result": "minecraft:leather",
+  "experience": 0.35,
+  "cookingtime": 100
+}

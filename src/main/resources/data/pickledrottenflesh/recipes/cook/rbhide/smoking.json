@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "pickledrottenflesh:raw_rabbit_hide"
+  },
+  "result": "minecraft:rabbit_hide",
+  "experience": 0.35,
+  "cookingtime": 100
+}
